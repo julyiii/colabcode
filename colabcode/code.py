@@ -16,7 +16,8 @@ except ImportError:
 
 
 EXTENSIONS = ["ms-python.python", "ms-toolsai.jupyter", "mechatroner.rainbow-csv", "vscode-icons-team.vscode-icons"]
-CODESERVER_VERSION = "4.2.0"
+#CODESERVER_VERSION = "4.2.0"
+CODESERVER_VERSION = "4.3.0"
 
 
 class ColabCode:
